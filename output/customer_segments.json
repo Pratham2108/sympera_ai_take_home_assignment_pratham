@@ -1,0 +1,30 @@
+{
+  "customer_id": "elite_builds_llc",
+  "industry": "residential_construction",
+  "region": "Utah",
+  "period": "2026-03",
+  "as_of": "2026-03-31",
+  "source": "signal_report.json",
+  "segments": {
+    "behavioral": [
+      "Lumber (-8.33%) and steel (-5.0%) fell txn-over-txn vs a 15% industry surge.",
+      "Net margin 44.35% = 11.1x industry avg (4%).",
+      "25.84% of net income ($12,850) is growth-related, not operational spend.",
+      "Monthly inflows cover opex 1.8x - a solvency cushion.",
+      "Cash margin 39.89% (incl. savings transfer as outflow).",
+      "Expense velocity LOW (-6.67% avg) - opposite of the profile banks are tightening credit for.",
+      "Built $5,000 savings buffer same period as growth spend.",
+      "Payroll unchanged across 2 runs - no staffing cuts under cost pressure.",
+      "Vendor cost trend is directional (amount-based); quantity data unavailable to confirm unit price."
+    ],
+    "demographic": [
+      "Small residential construction LLC, Utah.",
+      "Revenue ~$112K/month.",
+      "3 concurrent named projects this period - multi-crew capacity.",
+      "Revenue not concentrated - largest project is 46.39% of attributed revenue."
+    ],
+    "psychographic": [
+      "Pays for AutoCAD and local SEO - tech-forward, brand-conscious operator."
+    ]
+  }
+}
